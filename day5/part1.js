@@ -1,4 +1,3 @@
-const { time } = require('console');
 var fs = require('fs');
 const input = fs.readFileSync('./day5/input.txt').toString().split(/\r?\n/)
 let rules = [];
